@@ -18,7 +18,7 @@ No feedback has been received to date, however the Issue was created late in the
 ## **ITEMS FOR FURTHER DISCUSSION**
 1. There is still some confusion on my part as to which programs (i.e. Atom or Github) that should be used for specific tasks.
   - I believe this will become more clear as I continue to acclimate myself to this class rather than playing catchup.
-## **ISSUES ASSISTED WTIH**
+## **ISSUES ASSISTED WITH**
 I have not assisted with any issues this week as I have been in this class for less than a full week.
 My goal in the next week is to review issues posted and begin answering and learning from them.
 
