@@ -1,4 +1,4 @@
-Christine Martin
+_Christine Martin_
 # **WEEK OF JANUARY 17 - JANUARY 23**
 ## **SUMMARY OF WORK COMPLETED**
 - Completed homework from week 1
