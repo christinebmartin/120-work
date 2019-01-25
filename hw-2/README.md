@@ -22,4 +22,4 @@ No feedback has been received to date, however the Issue was created late in the
 I have not assisted with any issues this week as I have been in this class for less than a full week.
 My goal in the next week is to review issues posted and begin answering and learning from them.
 
-![Image of my editor](D:\Univ-of-Montana\120-work\hw-2\HW-2_Editor.png)
+![Image of my editor](https://umt.box.com/shared/static/vkd5c2nluranogpxw4u5j7ly1tzdy11i.png)
