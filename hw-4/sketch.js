@@ -117,8 +117,8 @@ fill('rgb(230,16,119)' );           //set fill color to pink
       100,
       30,
       radians(350),
-      radians(190),
-    );
+      radians(190));
+
 
 // freckles
 strokeWeight(3);                    //set line width to 3
