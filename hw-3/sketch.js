@@ -17,7 +17,7 @@ function draw() {
   flower();
 }
 
-function flower() {
+function flower() {         //initiate flower 
 push();
                                                       //begin sandbox
 //create the flower

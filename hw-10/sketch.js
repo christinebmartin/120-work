@@ -1,6 +1,8 @@
 //create Stickman variable
 var stickman;
 
+
+
 //Create words array
 var words = ["happy", "love", "mountains", "dog", "travel", "grandkids", "snow", "family", "f cancer", "traeger", "lake"];
 
@@ -8,14 +10,19 @@ var words = ["happy", "love", "mountains", "dog", "travel", "grandkids", "snow",
 //setup
 function setup() {
   createCanvas (windowWidth, windowHeight);
+dim = width / 20;
+colorMode(HSB, 360, 100, 100);
+ellipseMode(RADIUS);
   stickman = createSprite(100, windowHeight-200);                   //create Sprite that will start at width of 100 and half the height of the windwo
   stickman.addAnimation('normal', "tile001.png", "tile007.png");  //add animation using files that begin at tile001 through file tile007
+
 
   }
 
 //draw
 function draw() {
   background (255);                                               //background of canvas is white
+
 
 push();
 scale(0.25);              //scale object to 25% of it's size
@@ -39,6 +46,7 @@ pop();
 
 fill('gray');           //fill rectangle gray
 rect(0,600, 2000, 100);
+
 
 stickman.velocity.x = 13; //change speed of walking stickman
 drawSprites();           //draw sprite
